@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8"/>
+        <title>ProLOL</title>
+        <meta name="description" content="Mi pagina web de LOL"/>
+        <meta name="autor" content="Angel Flores"/>
+        <meta name="keywords" content="LOL, league of legend, builds, champs"/>
+    </head>
+    <body style="background-color: rgb(191, 241, 241);">
+        <header style="color: rgb(73, 43, 43);">
+            <h1 style="font-size:60px; 
+                    text-align: center; 
+                    font-family:verdana;
+                    border:2px solid thistle">
+                Proplayers LOL
+            </h1>
+            <img src="images/suport black.png" alt="imagen lolsito afa" style="width: 300px; height: 300px; margin-left: 525px;">
+        </header>
+
+        <p style="font-family: Arial; text-align: right;">
+            <a href="#mail">contacto</a></p>
+        <nav>
+            <ul>
+                <li>principal</li>
+                <li>aprender</li>
+                <li>acerca de</li>
+            </ul>
+            <ol>
+                <li>principal</li>
+                <li>aprender</li>
+                <li>acerca de</li>
+            </ol>
+        </nav>
+        <hr>
+        <section>
+            <article>
+                <hgroup>
+                    <h3 style="background-color: darkgoldenrod;">primer tema</h3>
+                    <h5>subtitulo</h5>
+                    <p style="text-align: center;">
+                        <b>comentario</b><sub>anashe</sub> full <i>ultra</i> <sup>xd</sup>
+                    </p>
+                </hgroup>
+                <time datetime="31-04-2021"> 
+                    <p style="text-align: right;"> Publicado 31-04-2021</p>
+                </time>
+                <p title="acerca de la web">
+                    <img src="images/mage black.jpg" 
+                         style="width: 100px; height: 100px;
+                                margin-right: 15px;
+                                float: left;">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                <br>Cum et, ipsum, <small>aperiam ullam reiciendis</small> est commodi rerum <br>
+                velit odio qui sed doloribus <span>doloremque asperiores</span>
+                recusandae <br> expedita ut saepe in nesciunt vitae laborum. 
+                <br> Doloribus quod <cite>autem deleniti</cite> vel fuga qui amet?</p>
+                <footer>
+                    <p>comentarios (0)</p>
+                </footer>
+                <address>
+                    <a href="https://www.instagram.com/angelflores_af/">
+                        <button>visita mi cuenta</button>
+                    </a>
+                </address>
+            </article>
+            <hr>
+            <article>
+                <hgroup>
+                    <h3 style="font-family:verdana;">segundo tema</h3>
+                    <h5>subtitulo</h5>
+                </hgroup>
+                <time datetime="31-04-2021"> 
+                    <p style="text-align: right;"> Publicado 31-04-2021</p>
+                </time>
+                <p title="acerca de la web"><b>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    <br>Cum et, ipsum, <small>aperiam ullam reiciendis</small> est commodi rerum <br>
+                    velit odio qui sed doloribus <span>doloremque asperiores</span>
+                    recusandae <br> expedita ut saepe in nesciunt vitae laborum. 
+                    <br> Doloribus quod <cite>autem deleniti</cite> vel fuga qui amet?</b> 
+                </p>
+                <footer>
+                    <p>comentarios (0)</p>
+                </footer>
+                <address>
+                    <a href="champs.htm">
+                        <button><img src="images/top.jpg"
+                                     width="75"
+                                     height="75"
+                                     alt="buton ig">
+                        </button>
+                    </a>
+                </address>
+            </article>
+            <hr>
+            <article>
+                <hgroup>
+                    <h3 style="background-color: darkgoldenrod;">tercer tema</h3>
+                    <h5>subtitulo</h5>
+                </hgroup>
+                <time datetime="31-04-2021"> 
+                    <p style="text-align: right;"> Publicado 31-04-2021</p>
+                </time>
+                <p>
+                    <pre style="color:rgb(78, 206, 39)">
+                        <img src="images/top.jpg" 
+                         style="width: 100px; height: 100px;
+                                margin-right: 15px;
+                                float: left;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Qui corrupti quam sed ipsum accusantium beatae, eum autem? 
+                        Consequuntur, voluptates ab.
+
+
+                    </pre> 
+                </p>
+
+                <footer>
+                    <p>comentarios (10)</p>
+                </footer>
+                <address>
+                    <a href="https://www.instagram.com/angelflores_af/" title="go to instagram" target="_blank">visita mi cuenta
+                        <style>
+                            a:link{
+                                color: green;
+                                background-color: transparent;
+                                text-decoration: none;}
+                            a:visited{
+                                color: pink;
+                                background-color: transparent;
+                                text-decoration: none;}
+                            a:hover{
+                                color: red;
+                                background-color: transparent;
+                                text-decoration: underline;}
+                            a:active{
+                                color: yellow;
+                                background-color: transparent;
+                                text-decoration: underline;}
+                        </style>
+                    </a>
+                </address>
+            </article>
+        </section>
+
+        <hr>
+        <article>
+            <hgroup>
+                <h3 style="font-family:verdana;">cuarto tema</h3>
+                <h5>subtitulo</h5>
+            </hgroup>
+            <time datetime="31-04-2021"> 
+                <p style="text-align: right;"> Publicado 31-04-2021</p>
+            </time>
+            <p title="acerca de la web">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                <br>Cum et, ipsum, <small>aperiam ullam reiciendis</small> est commodi rerum <br>
+                velit odio qui sed doloribus <span>doloremque asperiores</span>
+                recusandae <br> expedita ut saepe in nesciunt vitae laborum. 
+                <br> Doloribus quod <cite>autem deleniti</cite> vel fuga qui amet? 
+            </p>
+            <img src="images/workplace.jpg" alt="computer" usemap="#fotoanashe"
+                 style="width: 400px; height: 379px;">
+            <map name="fotoanashe">
+                <area shape="rect" coords="34,44,270,350" href="champs.htm" target="_blank" alt="computer">
+                <area shape="circle" coords="337,300,44" href="champs.htm" target="_blank" alt="cafe">
+                <area shape="rect" coords="290,172,333,250" href="champs.htm" target="_blank" alt="phone">
+                <area shape="poly" coords="0,205,34,220,0,290" href="champs.htm" target="_blank" alt="libro">
+            </map>
+
+            <footer>
+                <p>comentarios (0)</p>
+            </footer>
+        </article>
+        <hr>
+        <article>
+            <hgroup>
+                <h3 style="font-family:verdana;">quinto tema</h3>
+                <h5>subtitulo</h5>
+            </hgroup>
+            <time datetime="31-04-2021"> 
+                <p style="text-align: right;"> Publicado 31-04-2021</p>
+            </time>
+            <div style="background-image: url('images/fondo.jpg')">
+                You can specify background images<br>
+                for any visible HTML element.<br>
+                In this example, the background image<br>
+                is specified for a div element.<br>
+                By default, the background-image<br>
+                will repeat itself in the direction(s)<br>
+                where it is smaller than the element<br>
+                where it is specified. (Try resizing the<br>
+                browser window to see how the<br>
+                background image behaves.
+            </div>
+                      
+            <footer>
+                <p>comentarios (0)</p>
+            </footer>
+        </article>
+        <hr>
+        <aside>
+            <blockquote cite="https://www.instagram.com/angelflores_af/">
+                cita 1
+            </blockquote>
+            
+            <blockquote cite="https://www.instagram.com/angelflores_af/"> 
+                cita 2
+            </blockquote>
+        </aside>
+
+        <p id="mail"><a href="mailto:floresangelcontacto@gmail.com">Send email</a></p>
+
+        <footer>
+            derechos reservados 2020-2021
+        </footer>
+
+        <address>
+            <style>
+                button:hover{
+                        color: black;
+                        background-color: rgb(247, 192, 192);}
+                button:active{
+                        color: black;
+                        background-color: rgb(252, 252, 141);}
+            </style>
+                <a href="https://www.instagram.com/angelflores_af/" target="_blank">
+                    <button>visita mi cuenta</button>
+                </a>
+        </address>
+
+    </body>
+</html>
+
